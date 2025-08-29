@@ -1,8 +1,5 @@
-name: app_environment
-channels:
-  - snowflake
-dependencies:
-  - matplotlib=3.10.0
-  - python=3.11.*
-  - snowflake-snowpark-python=
-  - streamlit=
+pandas
+matplotlib
+snowflake-snowpark-python
+snowflake-connector-python
+streamlit
